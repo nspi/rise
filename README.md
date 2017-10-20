@@ -34,9 +34,9 @@ This dataset accompies the work *´´Feasibility of Photoplethysmography Imaging
 ## Data
 
 Each folder contains:
-- *img*.jpg*: Video frames
-- *img_time.csv*: Points in time of frame acquisition
-- *PO.mat*: Ground truth signal obtained by pulse oximetry
+- _img*.jpg_: Video frames
+- _img_time.csv_: Points in time of frame acquisition
+- _PO.mat_: Ground truth signal obtained by pulse oximetry
 
 <table>
 <tr><th>Palm of the hand </th><th>Sole of the feet</th></tr>
