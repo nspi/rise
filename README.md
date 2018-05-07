@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This dataset accompies the work *´´Feasibility of Photoplethysmography Imaging of the Sole of the Foot''* that is currently under review. After acceptance, more information will be added. Data has been acquired during the [DAAD RISE](https://www.daad.de/rise/) internship of T. Lovelace at the University of Applied Sciences and Arts Dortmund. 
+This dataset accompies the work *´´Feasibility of Photoplethysmography Imaging of the Sole of the Foot''* by Nicolai Spicher, Tyler Lovelace, and Markus Kukuk that will be presented at the [13th Annual IEEE International Symposium on Medical Measurements and Applications](http://memea2018.ieee-ims.org/) in Rome, Italy. The preprint of the paper can be found [here](https://www.fh-dortmund.de/de/fb/4/personen/wissMit/spicher/pub.php). The data has been acquired during the [DAAD RISE](https://www.daad.de/rise/) internship of Tyler Lovelace at the University of Applied Sciences and Arts Dortmund in 2017.
 
 ## Study population: 
 | ID | Gender | Ethnicity | Height (cm) | Weight (kg) | Body-Mass-Index | Age  | 
